@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07d1679acb417c14f9b5a6190dbd860d, type: 3}
+  m_Name: SmallHeal
+  m_EditorClassIdentifier: 
+  name: Small Heal
+  description: Just Heal 10 point
+  duration: 0
+  isOneTimeUse: 0
+  isUse: 0
+  healPoint: 10

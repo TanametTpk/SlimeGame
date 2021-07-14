@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Enemy
+  - Weapon
+  - CollectableItem
+  - Carryable
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Tree
+  - Ground
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2112884843
+    locked: 0
+  - name: Effect
+    uniqueID: 2456180173
+    locked: 0
+  - name: Character
+    uniqueID: 221971897
+    locked: 0
+  - name: Item
+    uniqueID: 2742675103
+    locked: 0
+  - name: Ground
+    uniqueID: 1914575499
+    locked: 0
